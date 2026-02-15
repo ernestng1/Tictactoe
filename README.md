@@ -4,25 +4,18 @@ A modern **Tic Tac Toe web game** built with **TypeScript** and **Vite**, design
 
 ---
 
-## 🎮 Features
-
-- Classic 3×3 Tic Tac Toe gameplay  
-- 2-player turn-based play (local)
-- Clean UI and smooth interactions
-- Built with modern web tooling (Vite + TypeScript)
-- Easy to run locally
+## 🎮 Game Modes
+- Multiplayer – Two players take turns to play.
+- Vs Computer – Single player mode against a bot.
+- Valentine’s Day Mode – Each player picks 3 tiles and tries to match as many tiles as possible.
 
 ---
 
 ## 🕹️ How to Play
 
-1. Player 1 starts and places the first mark.
-2. Players take turns clicking an empty square.
-3. The first player to get **3 in a row** wins:
-   - Horizontal
-   - Vertical
-   - Diagonal
-4. If all squares are filled and nobody wins, it’s a draw.
+1. Click on empty squares to place your mark.
+2. Multiplayer and Vs Computer modes follow classic Tic Tac Toe rules: first to get 3 in a row wins.
+3. Valentine’s Day mode: each player selects 3 tiles; the more matches, the higher the score.
 
 ---
 
